@@ -17,7 +17,7 @@ from telethon.tl.types import DocumentAttributeAudio, DocumentAttributeVideo
 from telethon.tl.types import InputWebDocument as wb
 from youtubesearchpython import VideosSearch
 
-ytt = "https://telegra.ph/file/afd04510c13914a06dd03.jpg"
+ytt = "https://telegra.ph/file/8da4810a46093a1ca9ce4.jpg"
 _yt_base_url = "https://www.youtube.com/watch?v="
 
 
